@@ -1,6 +1,6 @@
 id = "github-plus-themes"
 name = "Github Plus Themes"
-version = "1.0.1"
+version = "1.0.2"
 schema_version = 1
 authors = ["Nicola Peduzzi <thenikso@gmail.com>"]
 description = "🐙 Inspired by GitHub colors. Light and dark variants for a clear and coherent look."
